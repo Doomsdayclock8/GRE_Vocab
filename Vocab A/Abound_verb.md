@@ -1,0 +1,7 @@
+
+Acumen_notm
+Aggrandize
+Ambivalent
+Amorphous
+Arbitrary
+Ameliorate
