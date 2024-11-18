@@ -1,0 +1,1 @@
+#Synonyms [[Placate]], [[Croon]], [[Assuage]], [[Appease]]
