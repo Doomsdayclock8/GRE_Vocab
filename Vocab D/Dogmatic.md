@@ -1,2 +1,2 @@
-# Dogmatic
+![[Dogmatic.png]]
 

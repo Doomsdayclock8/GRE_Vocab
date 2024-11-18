@@ -1,2 +1,2 @@
-# Prevaricate Stall
+ Stall(try to prevent something)
 

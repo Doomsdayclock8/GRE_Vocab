@@ -1,0 +1,1 @@
+[[Auspicious_Favourable]]

@@ -1,0 +1,1 @@
+## Antonyms [[Adverse_Unfavourable]]
