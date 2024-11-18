@@ -1,2 +1,2 @@
-# Aggrandize
+#Synonyms [[Deify]], [[Glorify]]
 

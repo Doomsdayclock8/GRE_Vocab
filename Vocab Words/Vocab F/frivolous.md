@@ -1,2 +1,2 @@
-# frivolous
+#Synonyms Siily, [[Puerile]]
 
