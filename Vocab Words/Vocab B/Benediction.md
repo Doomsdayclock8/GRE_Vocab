@@ -1,0 +1,3 @@
+![[Benediction.png]]
+
+#Antonyms Malediction
