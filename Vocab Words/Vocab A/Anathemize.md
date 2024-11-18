@@ -1,1 +1,1 @@
-#Synonyms [[Malediction]]
+#Synonyms [[Maledict(Verb)]]

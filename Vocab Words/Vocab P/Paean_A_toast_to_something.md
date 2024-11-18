@@ -1,4 +1,3 @@
-# Paean
 
-**Description:** A toast to something
-
+**Description:** A toast/Praise to something
+#Synonyms [[Venerate]],[[Laudable]]
