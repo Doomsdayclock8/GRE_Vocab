@@ -1,0 +1,2 @@
+![[Demur.png]]
+Formally Refuse
