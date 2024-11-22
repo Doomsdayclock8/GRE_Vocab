@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lala.md",
+                "file": "Vocab Words/Vocab D/Deleterious.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lala"
+              "title": "Deleterious"
             }
           }
         ]
@@ -171,13 +171,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05137d154c1e5f04",
+  "active": "9ffb8e42df7e0ffd",
   "lastOpenFiles": [
+    "Vocab Words/Vocab P/Pernicious.md",
     "lala.md",
+    "Images/Pernicious.png",
     "README.md",
-    "Pernicious.png",
-    "Pernicious.md",
-    "Deleterious.md",
+    "Vocab Words/Vocab D/Deleterious.md",
     "Vocab Words/Vocab V/Voluble.md",
     "Vocab Words/Vocab V/Vilify.md",
     "Vocab Words/Vocab V/Venerate.md",
@@ -199,7 +199,6 @@
     "Vocab Words/Vocab P/Preamble_Intro.md",
     "Vocab Words/Vocab P/Preamble.md",
     "Vocab Words/Vocab P/Placate.md",
-    "Vocab Words/Vocab P/Pertinatious.md",
     "Vocab Words/Vocab V",
     "Vocab Words/Vocab U",
     "Vocab Words/Vocab T",
