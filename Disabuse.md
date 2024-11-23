@@ -1,4 +1,5 @@
 ![[Disabuse.png]]
+#Synonyms [[Inform]]
 # Examples
 - Indeed, they felt it their duty to **disabuse** me of my weaponized history.
     
