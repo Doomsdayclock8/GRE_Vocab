@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "be299735c9a60141",
+        "id": "2f71f8b960953fca",
         "type": "tabs",
         "children": [
           {
-            "id": "51fe88dd3d40a816",
+            "id": "36f6e1931814cc3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocab Words/Vocab A/Abscond.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Abscond"
+              "title": "New tab"
             }
           }
         ]
@@ -171,12 +167,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ffb8e42df7e0ffd",
+  "active": "36f6e1931814cc3e",
   "lastOpenFiles": [
-    "Images/Abeyance_Uses.png",
-    "Vocab Words/Vocab A/Abscond.md",
-    "Vocab Words/Vocab C/Capricious.md",
+    "Vocab Words/Vocab A/Appease.md",
+    "Vocab Words/Vocab M/Mollify.md",
+    "Vocab Words/Vocab M/Maledict(Verb).md",
+    "Vocab Words/Vocab O/Obsequious.md",
     "Vocab Words/Vocab O/Oversell.md",
+    "Vocab Words/Vocab O/Overweening.md",
+    "Vocab Words/Vocab A/Abscond.md",
+    "Images/Abeyance_Uses.png",
+    "Vocab Words/Vocab C/Capricious.md",
     "Vocab Words/Vocab A/Aggrandize.md",
     "Vocab Words/Vocab A/Alacrity.md",
     "Vocab Words/Vocab A/Abstemious.md",
@@ -197,11 +198,7 @@
     "Vocab Words/Vocab A/Ambiguous.md",
     "Vocab Words/Vocab A/Alleviate.md",
     "Vocab Words/Vocab A/Admonish.md",
-    "Vocab Words/Vocab D/Deleterious.md",
-    "Vocab Words/Vocab P/Pernicious.md",
-    "lala.md",
     "Images/Pernicious.png",
-    "README.md",
     "Vocab Words/Vocab V",
     "Vocab Words/Vocab U",
     "Vocab Words/Vocab T",
