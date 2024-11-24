@@ -13,15 +13,590 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocab Words/Vocab V/Vituperative.md",
+                "file": "Vocab Words/Vocab A/Admonish.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vituperative"
+              "title": "Admonish"
+            }
+          },
+          {
+            "id": "6d2cde0172f4bebc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amalgamate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amalgamate"
+            }
+          },
+          {
+            "id": "103ee44f1605ab3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apathy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apathy"
+            }
+          },
+          {
+            "id": "0b9776f790773ece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Approbation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Approbation"
+            }
+          },
+          {
+            "id": "c33d6b6c57f40475",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lassitude.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lassitude"
+            }
+          },
+          {
+            "id": "592f32731537a872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lethargic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lethargic"
+            }
+          },
+          {
+            "id": "2cb6cd2a2fc13013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Loquacious.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Loquacious"
+            }
+          },
+          {
+            "id": "fad0c43473e81614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abjure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abjure"
+            }
+          },
+          {
+            "id": "004713f37c735a60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abrogate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abrogate"
+            }
+          },
+          {
+            "id": "9e099cf1306e9c84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bifurcate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bifurcate"
+            }
+          },
+          {
+            "id": "4b42d109774d8054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "About.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "About"
+            }
+          },
+          {
+            "id": "efc01af9e23d94bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adumbrate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adumbrate"
+            }
+          },
+          {
+            "id": "7f9d4c3e1f3052b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bulwark.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bulwark"
+            }
+          },
+          {
+            "id": "4cec1a53d08e2437",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ambulatory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ambulatory"
+            }
+          },
+          {
+            "id": "ecf283c0ef8dff57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chattel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chattel"
+            }
+          },
+          {
+            "id": "72d2adf2b5d8d4e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amortize.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Amortize"
+            }
+          },
+          {
+            "id": "f840b273059d1acb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognomen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cognomen"
+            }
+          },
+          {
+            "id": "d1b82c22642efdc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cistern.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cistern"
+            }
+          },
+          {
+            "id": "478e5741413ae77e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quiescent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quiescent"
+            }
+          },
+          {
+            "id": "a7e63695e599c6ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welter"
+            }
+          },
+          {
+            "id": "3580f287b9000233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transgression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transgression"
+            }
+          },
+          {
+            "id": "1182ae3a6f485512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Onerous.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Onerous"
+            }
+          },
+          {
+            "id": "16ec833b227ce212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compunctuous.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Compunctuous"
+            }
+          },
+          {
+            "id": "3f9172fab1714a14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contumacious.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Contumacious"
+            }
+          },
+          {
+            "id": "3c57ef428c0e0dbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Effulgent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Effulgent"
+            }
+          },
+          {
+            "id": "2a1ce7d657b8f9ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Declivity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Declivity"
+            }
+          },
+          {
+            "id": "0b81d2b41566956e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evince.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evince"
+            }
+          },
+          {
+            "id": "2d5dd46ff826d47b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Corrugate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Corrugate"
+            }
+          },
+          {
+            "id": "25fa058ef906cd9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dyseptic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dyseptic"
+            }
+          },
+          {
+            "id": "2d29818e0ad06979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encomium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Encomium"
+            }
+          },
+          {
+            "id": "0afc1b170b3c3632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emollient.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emollient"
+            }
+          },
+          {
+            "id": "21f4f92a1f95d909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ennui.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ennui"
+            }
+          },
+          {
+            "id": "e6b524d23b32525a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distaff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Distaff"
+            }
+          },
+          {
+            "id": "305ea003435355ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discomfit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Discomfit"
+            }
+          },
+          {
+            "id": "130711f789412bfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consanguineous.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consanguineous"
+            }
+          },
+          {
+            "id": "28a085cc9df46d1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exorcise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exorcise"
+            }
+          },
+          {
+            "id": "1401762511b18618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forsuvear.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forsuvear"
+            }
+          },
+          {
+            "id": "8723639de4b2b991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fracas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fracas"
+            }
+          },
+          {
+            "id": "4511a0a524800df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fetid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fetid"
+            }
+          },
+          {
+            "id": "802d1beea5a9477b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gustatory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gustatory"
+            }
+          },
+          {
+            "id": "b2b390a846e192fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ignominious.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ignominious"
+            }
+          },
+          {
+            "id": "94b0990dda10b087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 41
       }
     ],
     "direction": "vertical"
@@ -171,38 +746,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ffb8e42df7e0ffd",
+  "active": "94b0990dda10b087",
   "lastOpenFiles": [
-    "Vocab Words/Vocab V/Vituperative.md",
-    "Vocab Words/Vocab R/Rescind.md",
-    "Vocab Words/Vocab P/Preceptiveness.md",
-    "Vocab Words/Vocab D/Discernment.md",
-    "Vocab Words/Vocab R/Sagacity.md",
-    "Vocab Words/Vocab D/Discretion.md",
-    "Vocab Words/Vocab D/Discernment vs Discretion vs Sagacity vs Prudence.md",
-    "Vocab Words/Vocab A/App.md",
+    "Filial.md",
+    "Ignominious.md",
+    "Gustatory.md",
+    "Fetid.md",
+    "Fracas.md",
+    "Forsuvear.md",
+    "Exorcise.md",
+    "Consanguineous.md",
+    "Discomfit.md",
+    "Distaff.md",
+    "Ennui.md",
+    "Emollient.md",
+    "Encomium.md",
+    "Dyseptic.md",
+    "Corrugate.md",
+    "Evince.md",
+    "Declivity.md",
+    "Effulgent.md",
+    "Contumacious.md",
+    "Compunctuous.md",
+    "Onerous.md",
+    "Transgression.md",
+    "Welter.md",
+    "Quiescent.md",
+    "Vocab Words/Vocab P/Preamble.md",
+    "Cistern.md",
     "Images/Prudence.png",
-    "Vocab Words/Vocab O/Overture.md",
-    "Vocab Words/Vocab P/Prudence.md",
     "Images/Discernment.png",
-    "Vocab Words/Vocab F/Frugality.md",
     "Images/Disabuse.png",
-    "Vocab Words/Vocab I/Inform.md",
-    "Vocab Words/Vocab D/Disabuse.md",
-    "Vocab Words/Vocab P/Preamble 1.md",
-    "Vocab Words/Vocab P/Prelude.md",
-    "Vocab Words/Vocab R/Reprimand.md",
-    "Vocab Words/Vocab R/Rebuke.md",
-    "Vocab Words/Vocab C/Castigation.md",
-    "Vocab Words/Vocab C/Castigate.md",
     "Images/Castigation.png",
-    "Vocab Words/Vocab A/Allusive.md",
-    "Vocab Words/Vocab A/Ameliorate.md",
-    "Vocab Words/Vocab A/Ambivalent.md",
-    "Vocab Words/Vocab A/Ambiguous.md",
-    "Vocab Words/Vocab A/Alacrity.md",
-    "Vocab Words/Vocab A/Alleviate.md",
-    "Vocab Words/Vocab A/Acumen.md",
     "Images/Fawning.png",
     "Images/Fawning_vs_unctuous.png",
     "Images/Abeyance_Uses.png",
