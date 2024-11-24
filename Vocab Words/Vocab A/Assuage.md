@@ -1,1 +1,1 @@
-#Synonyms [[Placate]], [[Croon]], [[Vocab Words/Vocab A/Assuage]], [[Appease]]
+#Synonyms [[Placate]], [[Croon]], [[Assuage]], [[Appease]]

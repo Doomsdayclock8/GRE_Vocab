@@ -1,0 +1,1 @@
+#Synonyms [[Upbraid]], [[Castigation]], [[Reprimand]]

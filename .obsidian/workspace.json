@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51fe88dd3d40a816",
+            "id": "ce85fa90d6ececda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assuage.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assuage"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -171,9 +171,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51fe88dd3d40a816",
+  "active": "ce85fa90d6ececda",
   "lastOpenFiles": [
     "Assuage.md",
+    "conflict-files-obsidian-git.md",
+    "Vocab Words/Vocab A/App.md",
+    "Vocab Words/Vocab A/Antipathy.md",
+    "Vocab Words/Vocab A/Anomalous.md",
+    "Vocab Words/Vocab A/Anachronism.md",
+    "Vocab Words/Vocab A/Ambivalence.md",
+    "Vocab Words/Vocab A/Ambiguous.md",
+    "Vocab Words/Vocab A/Alleviate.md",
+    "Vocab Words/Vocab A/Admonish.md",
+    "Vocab Words/Vocab A/Abstemious.md",
+    "Vocab Words/Vocab A/Abscond.md",
+    "Vocab Words/Vocab A/Abeyance.md",
+    "Vocab Words/Vocab A/Aberrant.md",
+    "Vocab Words/Vocab A/Abate.md",
+    "Images/Prudence.png",
+    "Images/Fawning_vs_unctuous.png",
+    "Images/Fawning.png",
+    "Images/Discernment.png",
+    "Images/Disabuse.png",
+    "Images/Castigation.png",
+    "Images/Abeyance_Uses.png",
+    "Images/Abeyance.png",
+    "Images/Abate.png",
     "Artless.md",
     "Approbation.md",
     "Apprise.md",
@@ -185,21 +208,7 @@
     "Ambiguous.md",
     "Alleviate.md",
     "Admonish.md",
-    "Abstemious.md",
-    "Abscond.md",
-    "Abeyance.md",
-    "Aberrant.md",
-    "Abate.md",
-    "Vocab Words/Vocab D/Deleterious.md",
-    "Vocab Words/Vocab P/Pernicious.md",
-    "lala.md",
     "Images/Pernicious.png",
-    "README.md",
-    "Vocab Words/Vocab V/Voluble.md",
-    "Vocab Words/Vocab V/Vilify.md",
-    "Vocab Words/Vocab V/Venerate.md",
-    "Vocab Words/Vocab U/Upbraid.md",
-    "Vocab Words/Vocab U/Unctuous.md",
     "Vocab Words/Vocab V",
     "Vocab Words/Vocab U",
     "Vocab Words/Vocab T",
@@ -210,15 +219,6 @@
     "Vocab Words/Vocab O",
     "Vocab Words/Vocab M",
     "Vocab Words/Vocab L",
-    "Images/Unctuous_vocabulary.com.png",
-    "Images/Taciturn.png",
-    "Images/Tacit.png",
-    "Images/Obsequious vs Unctuous.png",
-    "Images/Limpid.png",
-    "Images/Malediction.png",
-    "Images/Largess.png",
-    "Images/Inveterate.png",
-    "Images/Inscrutable.png",
     "Untitled.canvas"
   ]
 }

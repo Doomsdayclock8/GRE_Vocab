@@ -1,3 +1,3 @@
-#Synonyms [[Astuteness]], [[discernment]]
+#Synonyms [[Astuteness]], [[Discernment]]
 
 ![[Acumen.png]]

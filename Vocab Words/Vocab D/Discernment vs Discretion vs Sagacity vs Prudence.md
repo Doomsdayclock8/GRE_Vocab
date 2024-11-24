@@ -1,0 +1,13 @@
+#Table
+
+| **Term**        | **Definition**                                                                              | **Focus Area**                           | **Key Aspect**                                                      | **Examples**                                                                                           | **Real-World Application**                                                                                 |
+| --------------- | ------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| **Discernment** | The ability to perceive or recognize subtle truths or differences.                          | Intellectual clarity                     | Identifying and understanding subtle distinctions.                  | _"She showed discernment in identifying the fake painting from the original masterpiece."_             | Selecting the right career path, assessing the quality of products, or judging character in relationships. |
+| **Discretion**  | The ability to behave or speak in a way that avoids offending or revealing private matters. | Tact and diplomacy                       | Wise and cautious communication or action.                          | _"He used discretion to handle a coworker's sensitive complaint without escalating it unnecessarily."_ | Managing confidential business matters, dealing with sensitive family issues, or resolving conflicts.      |
+| **Sagacity**    | Profound wisdom and the ability to make sound decisions based on experience.                | Deep insight and philosophical thinking. | Gaining wisdom through experience and reflection.                   | _"The king's sagacity was evident in his long-term strategy to unite the warring factions."_           | Long-term strategic planning, guiding organizations, or mentoring others with life wisdom.                 |
+| **Prudence**    | The quality of being careful, cautious, and thoughtful, particularly about the future.      | Practical judgment and foresight.        | Avoiding unnecessary risks and planning wisely for future outcomes. | _"Her prudence in budgeting ensured she had enough savings for an emergency."_                         | Financial planning, risk management, or creating contingency plans in business or personal life.           |
+
+
+
+
+
