@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "be299735c9a60141",
+        "id": "b8ab1850b5c78242",
         "type": "tabs",
         "children": [
           {
-            "id": "ce85fa90d6ececda",
+            "id": "f36abecf8e771bac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Vocab Words/Vocab V/Vituperative.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Vituperative"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Antonyms",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "e7c4627fdeef64c7",
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,43 +171,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce85fa90d6ececda",
+  "active": "9ffb8e42df7e0ffd",
   "lastOpenFiles": [
-    "Assuage.md",
-    "conflict-files-obsidian-git.md",
+    "Vocab Words/Vocab V/Vituperative.md",
+    "Vocab Words/Vocab R/Rescind.md",
+    "Vocab Words/Vocab P/Preceptiveness.md",
+    "Vocab Words/Vocab D/Discernment.md",
+    "Vocab Words/Vocab R/Sagacity.md",
+    "Vocab Words/Vocab D/Discretion.md",
+    "Vocab Words/Vocab D/Discernment vs Discretion vs Sagacity vs Prudence.md",
     "Vocab Words/Vocab A/App.md",
-    "Vocab Words/Vocab A/Antipathy.md",
-    "Vocab Words/Vocab A/Anomalous.md",
-    "Vocab Words/Vocab A/Anachronism.md",
-    "Vocab Words/Vocab A/Ambivalence.md",
-    "Vocab Words/Vocab A/Ambiguous.md",
-    "Vocab Words/Vocab A/Alleviate.md",
-    "Vocab Words/Vocab A/Admonish.md",
-    "Vocab Words/Vocab A/Abstemious.md",
-    "Vocab Words/Vocab A/Abscond.md",
-    "Vocab Words/Vocab A/Abeyance.md",
-    "Vocab Words/Vocab A/Aberrant.md",
-    "Vocab Words/Vocab A/Abate.md",
     "Images/Prudence.png",
-    "Images/Fawning_vs_unctuous.png",
-    "Images/Fawning.png",
+    "Vocab Words/Vocab O/Overture.md",
+    "Vocab Words/Vocab P/Prudence.md",
     "Images/Discernment.png",
+    "Vocab Words/Vocab F/Frugality.md",
     "Images/Disabuse.png",
+    "Vocab Words/Vocab I/Inform.md",
+    "Vocab Words/Vocab D/Disabuse.md",
+    "Vocab Words/Vocab P/Preamble 1.md",
+    "Vocab Words/Vocab P/Prelude.md",
+    "Vocab Words/Vocab R/Reprimand.md",
+    "Vocab Words/Vocab R/Rebuke.md",
+    "Vocab Words/Vocab C/Castigation.md",
+    "Vocab Words/Vocab C/Castigate.md",
     "Images/Castigation.png",
+    "Vocab Words/Vocab A/Allusive.md",
+    "Vocab Words/Vocab A/Ameliorate.md",
+    "Vocab Words/Vocab A/Ambivalent.md",
+    "Vocab Words/Vocab A/Ambiguous.md",
+    "Vocab Words/Vocab A/Alacrity.md",
+    "Vocab Words/Vocab A/Alleviate.md",
+    "Vocab Words/Vocab A/Acumen.md",
+    "Images/Fawning.png",
+    "Images/Fawning_vs_unctuous.png",
     "Images/Abeyance_Uses.png",
     "Images/Abeyance.png",
     "Images/Abate.png",
-    "Artless.md",
-    "Approbation.md",
-    "Apprise.md",
-    "Apprrease.md",
-    "Antipathy.md",
-    "Anomalous.md",
-    "Anachronism.md",
-    "Ambivalence.md",
-    "Ambiguous.md",
-    "Alleviate.md",
-    "Admonish.md",
     "Images/Pernicious.png",
     "Vocab Words/Vocab V",
     "Vocab Words/Vocab U",
