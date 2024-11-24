@@ -587,12 +587,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Vocab Words/Vocab P/Prevaricate_Stall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Prevaricate_Stall"
             }
           }
         ],
@@ -748,6 +748,7 @@
   },
   "active": "94b0990dda10b087",
   "lastOpenFiles": [
+    "README.md",
     "Filial.md",
     "Ignominious.md",
     "Gustatory.md",
@@ -773,7 +774,6 @@
     "Welter.md",
     "Quiescent.md",
     "Vocab Words/Vocab P/Preamble.md",
-    "Cistern.md",
     "Images/Prudence.png",
     "Images/Discernment.png",
     "Images/Disabuse.png",
