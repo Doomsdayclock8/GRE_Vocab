@@ -1,4 +1,4 @@
-![[Abrogate.png]]
+![[Abrogate 1.png]]
 #Synonyms [[Abolish]]
 #mnemonic A goof advocate will abrogate the blame on his defendent
 # Uses:
