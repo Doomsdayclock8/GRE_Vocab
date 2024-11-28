@@ -1,0 +1,2 @@
+Solemnly renounce 
+#Synonyms [[Abjure]]

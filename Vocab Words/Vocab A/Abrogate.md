@@ -1,1 +1,1 @@
-![[Abrogate.png]]
+![[Images/Abrogate.png]]

@@ -11,13 +11,32 @@
             "id": "098ba935a7cb2f28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Repudiate.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Repudiate"
+            }
+          },
+          {
+            "id": "c8efe34e05e681c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Words of the day.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Words of the day"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,44 +186,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62681fdedb230f00",
+  "active": "c8efe34e05e681c2",
   "lastOpenFiles": [
-    "Ambulatory.md",
-    "Chattel.md",
-    "Amortize.md",
-    "Cognomen.md",
-    "Cistern.md",
-    "Quiescent.md",
+    "Abjure.md",
+    "Words of the day.md",
+    "Insinuate.md",
+    "Abrogate.md",
     "Welter.md",
-    "Transgression.md",
+    "Pasted image 20241128085706.png",
+    "Abrogate.png",
+    "Bulwark.md",
+    "Bifurcate.md",
+    "Approbation.md",
+    "Approbation.png",
+    "Probation.png",
+    "probation.md",
+    "Apathy.md",
+    "Amortize or Amortise.md",
+    "Ambulatory.md",
+    "Adumbrate.md",
+    "Pasted image 20241128084114.png",
+    "Adumbrate_.png",
+    "Adumbrate.png",
     "Onerous.md",
-    "Compunctuous.md",
-    "Vocab Words/Vocab P/Prevaricate_Stall.md",
-    "README.md",
-    "Filial.md",
-    "Ignominious.md",
-    "Gustatory.md",
-    "Fetid.md",
-    "Fracas.md",
-    "Forsuvear.md",
-    "Exorcise.md",
-    "Consanguineous.md",
-    "Discomfit.md",
-    "Distaff.md",
-    "Ennui.md",
-    "Emollient.md",
-    "Encomium.md",
-    "Dyseptic.md",
+    "Quiescent.md",
+    "Repudiate.md",
+    "Vocab Words/Vocab A/Admonish.md",
+    "Vocab Words/Vocab A/Adept_Highly Skilled.md",
+    "Vocab Words/Vocab A/Acumen.md",
+    "Vocab Words/Vocab A/Accurse.md",
+    "Vocab Words/Vocab A/Abstemious.md",
+    "Vocab Words/Vocab A/Abscond.md",
+    "Vocab Words/Vocab A/Abrogate.md",
+    "Vocab Words/Vocab A/Abound_verb.md",
+    "Vocab Words/Vocab A/Abeyance.md",
+    "Vocab Words/Vocab A/Aberrant.md",
     "Images/Prudence.png",
     "Images/Discernment.png",
     "Images/Disabuse.png",
-    "Images/Castigation.png",
-    "Images/Fawning.png",
-    "Images/Fawning_vs_unctuous.png",
-    "Images/Abeyance_Uses.png",
-    "Images/Abeyance.png",
-    "Images/Abate.png",
-    "Images/Pernicious.png",
     "Vocab Words/Vocab V",
     "Vocab Words/Vocab U",
     "Vocab Words/Vocab T",

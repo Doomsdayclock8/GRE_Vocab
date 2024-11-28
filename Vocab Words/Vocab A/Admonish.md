@@ -1,3 +1,3 @@
 
-Scold
+#Synonyms [[Scold]],
 #connected [[Fastidious]]
