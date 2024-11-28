@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Words of the day.md",
+                "file": "Words of the Day/2024-11-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Words of the day"
+              "title": "2024-11-28"
             }
           }
         ],
@@ -188,8 +188,10 @@
   },
   "active": "9ffb8e42df7e0ffd",
   "lastOpenFiles": [
-    "Vocab Words/Vocab A/Abjure.md",
     "Words of the day.md",
+    "Words of the Day/2024-11-28.md",
+    "Words of the Day",
+    "Vocab Words/Vocab A/Abjure.md",
     "Insinuate.md",
     "Vocab Words/Vocab A/Abrogate 1.md",
     "Welter.md",
@@ -219,8 +221,6 @@
     "Vocab Words/Vocab A/Abscond.md",
     "Vocab Words/Vocab A/Abrogate.md",
     "Vocab Words/Vocab A/Abound_verb.md",
-    "Vocab Words/Vocab A/Abeyance.md",
-    "Vocab Words/Vocab A/Aberrant.md",
     "Images/Prudence.png",
     "Images/Discernment.png",
     "Images/Disabuse.png",
@@ -233,7 +233,6 @@
     "Vocab Words/Vocab P",
     "Vocab Words/Vocab O",
     "Vocab Words/Vocab M",
-    "Vocab Words/Vocab L",
     "Untitled.canvas"
   ]
 }
