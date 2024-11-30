@@ -1,0 +1,1 @@
+#Synonyms [[Practical]],[[Pragmatic]]
