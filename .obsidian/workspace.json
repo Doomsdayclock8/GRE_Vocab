@@ -64,6 +64,48 @@
             }
           },
           {
+            "id": "ad2db8d6ac232a6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laconic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Laconic"
+            }
+          },
+          {
+            "id": "d21f3f51024d4ffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hackneyed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hackneyed"
+            }
+          },
+          {
+            "id": "d217257a169a7379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Truculent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Truculent"
+            }
+          },
+          {
             "id": "80ab4420e2039041",
             "type": "leaf",
             "state": {
@@ -78,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -109,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Synonyms",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +172,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -228,10 +271,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ffb8e42df7e0ffd",
+  "active": "d217257a169a7379",
   "lastOpenFiles": [
-    "Expedient.md",
+    "Belligerent.md",
+    "Truculent.md",
+    "Hackneyed.md",
+    "Laconic.md",
+    "Pithy.md",
     "Gratuitous.md",
+    "Expedient.md",
     "Pragmatic.md",
     "Practical.md",
     "Vocab Words/Vocab C/Castigate.md",
@@ -256,14 +304,9 @@
     "Images/Approbation.png",
     "Images/Probation.png",
     "probation.md",
-    "Vocab Words/Vocab A/Apathy.md",
-    "Vocab Words/Vocab A/Amortize or Amortise.md",
-    "Vocab Words/Vocab A/Ambulatory.md",
-    "Vocab Words/Vocab A/Adumbrate.md",
     "Images/Pasted image 20241128084114.png",
     "Images/Adumbrate_.png",
     "Adumbrate.png",
-    "Onerous.md",
     "Images/Prudence.png",
     "Images/Discernment.png",
     "Images/Disabuse.png",

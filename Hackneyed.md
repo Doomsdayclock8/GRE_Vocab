@@ -1,0 +1,1 @@
+#Synonyms [[Banal]],[[Cliche]]
