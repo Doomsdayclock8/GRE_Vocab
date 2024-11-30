@@ -1,1 +1,1 @@
-#Synonyms [[Scold]], [[Castigate]],[[Chide]],[[Rebuke]],[[Reprimand]],[[Reproach]]
+#Synonyms [[Scold]], [[Castigate]],[[Chide]],[[Rebuke]],[[Reprimand]],[[Reproach]],[[Upbraid]]

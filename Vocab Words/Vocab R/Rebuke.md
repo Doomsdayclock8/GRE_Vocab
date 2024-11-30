@@ -1,1 +1,1 @@
-#Synonyms [[Upbraid]], [[Castigation]], [[Reprimand]]
+#Synonyms [[Upbraid]], [[Castigation]], [[Reprimand]],[[Scold]], [[Castigate]],[[Chide]],[[Rebuke]],[[Reprimand]],[[Reproach]]

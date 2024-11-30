@@ -1,2 +1,2 @@
 ![[Castigation.png]]
-#Synonyms [[Upbraid]], [[Rebuke]], 
+#Synonyms [[Upbraid]], [[Rebuke]], [[Scold]], [[Castigate]],[[Chide]],[[Rebuke]],[[Reprimand]],[[Reproach]]

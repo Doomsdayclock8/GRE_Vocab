@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7439550bd37f6802",
+        "id": "d230f3cb5e5a949d",
         "type": "tabs",
         "children": [
           {
-            "id": "098ba935a7cb2f28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Repudiate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Repudiate"
-            }
-          },
-          {
-            "id": "c8efe34e05e681c2",
+            "id": "415913480c7200b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,93 +20,8 @@
               "icon": "lucide-file",
               "title": "Castigate"
             }
-          },
-          {
-            "id": "7376609a4223b18f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Expedient.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Expedient"
-            }
-          },
-          {
-            "id": "8f01f8e7e0905943",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gratuitous.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gratuitous"
-            }
-          },
-          {
-            "id": "ad2db8d6ac232a6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laconic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Laconic"
-            }
-          },
-          {
-            "id": "d21f3f51024d4ffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hackneyed.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hackneyed"
-            }
-          },
-          {
-            "id": "d217257a169a7379",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Truculent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Truculent"
-            }
-          },
-          {
-            "id": "80ab4420e2039041",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocab Words/Vocab A/Admonish.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Admonish"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,12 +73,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.5
   },
   "right": {
     "id": "e7c4627fdeef64c7",
@@ -271,21 +171,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d217257a169a7379",
+  "active": "415913480c7200b4",
   "lastOpenFiles": [
-    "Belligerent.md",
+    "Vocab Words/Vocab C/Castigation.md",
+    "Vocab Words/Vocab R/Rebuke.md",
+    "Vocab Words/Vocab C/Castigate.md",
+    "Chide.md",
+    "Cistern.md",
+    "Chattel.md",
+    "Vocab Words/Vocab A/Admonish.md",
     "Truculent.md",
     "Hackneyed.md",
     "Laconic.md",
-    "Pithy.md",
     "Gratuitous.md",
     "Expedient.md",
+    "Belligerent.md",
+    "Pithy.md",
     "Pragmatic.md",
     "Practical.md",
-    "Vocab Words/Vocab C/Castigate.md",
     "Reproach.md",
-    "Chide.md",
-    "Vocab Words/Vocab A/Admonish.md",
     "Vocab Words/Vocab A/Abrogate.md",
     "Vocab Words/Vocab A/Abrogate.md",
     "Scold.md",
@@ -298,12 +202,8 @@
     "Welter.md",
     "Images/Pasted image 20241128085706.png",
     "Images/Abrogate 1.png",
-    "Vocab Words/Vocab B/Bulwark.md",
-    "Vocab Words/Vocab B/Bifurcate.md",
-    "Vocab Words/Vocab A/Approbation.md",
     "Images/Approbation.png",
     "Images/Probation.png",
-    "probation.md",
     "Images/Pasted image 20241128084114.png",
     "Images/Adumbrate_.png",
     "Adumbrate.png",
