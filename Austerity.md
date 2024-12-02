@@ -1,0 +1,1 @@
+#Synonyms [[Rigor]],[[Severity]]
