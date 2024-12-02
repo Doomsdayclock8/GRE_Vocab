@@ -11,10 +11,14 @@
             "id": "64428bab59d9f1c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Rigor.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Rigor"
             }
           }
         ]
@@ -154,8 +158,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7ba98b1bb2b1134",
+  "active": "64428bab59d9f1c9",
   "lastOpenFiles": [
+    "Consanguineous.md",
     "/Words of the Day/2024-11-28.md",
     "/Vocab Words/Vocab R/Rebuke.md",
     "/Vocab Words/Vocab C/Castigation.md",
@@ -180,7 +185,6 @@
     "/Chide.md",
     "/Captious.md",
     "/Belligerent.md",
-    "/Austerity.md",
-    "/Articulate.md"
+    "/Austerity.md"
   ]
 }
