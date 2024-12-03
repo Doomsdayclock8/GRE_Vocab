@@ -1,1 +1,1 @@
-#Synonyms [[Truculent]],
+#Synonyms [[Truculent]],[[Confrontational]]
