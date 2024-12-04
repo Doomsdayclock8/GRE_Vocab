@@ -1,4 +1,4 @@
 Ambiguous( in opinion)
 
-#Antonyms [[Dogmatic]],[[Inconspicuous]]
+#Antonyms [[Dogmatic]],[[Inconspicuous]] ,[[Pontifical]],[[Doctrinaire]]
 
