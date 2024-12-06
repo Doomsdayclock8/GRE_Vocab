@@ -4,31 +4,87 @@
     "type": "split",
     "children": [
       {
-        "id": "85ebe8fe63f7be16",
+        "id": "69034e9cba4fc539",
         "type": "tabs",
-        "dimension": 67.1934865900383,
+        "dimension": 58.86015325670498,
         "children": [
           {
-            "id": "35f31fce997b276e",
+            "id": "d1a77824434dc168",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pontifical.md",
+                "file": "Steadfast.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pontifical"
-            },
-            "group": "4255c2e0b1599035"
+              "title": "Steadfast"
+            }
+          },
+          {
+            "id": "d14fffd5418d4572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eclectic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eclectic"
+            }
+          },
+          {
+            "id": "877592f69c62b242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equanmity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Equanmity"
+            }
+          },
+          {
+            "id": "3b2788ac3c767163",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exorbitant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exorbitant"
+            }
+          },
+          {
+            "id": "cbb72435d2b20f24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Macabre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Macabre"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "5d48cbd204c51ee7",
         "type": "split",
-        "dimension": 32.80651340996169,
+        "dimension": 41.13984674329502,
         "children": [
           {
             "id": "6b5eff87ccb7495a",
@@ -56,7 +112,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Pontifical.md",
+                    "file": "Macabre.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -84,9 +140,8 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Pontifical"
-                },
-                "group": "4255c2e0b1599035"
+                  "title": "Graph of Macabre"
+                }
               }
             ]
           }
@@ -122,7 +177,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "n",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,7 +283,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 583.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,13 +296,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35f31fce997b276e",
+  "active": "9ffb8e42df7e0ffd",
   "lastOpenFiles": [
+    "Morbid.md",
+    "Macabre.md",
+    "Exorbitant.md",
+    "Equanmity.md",
+    "Eclectic.md",
+    "Steadfast.md",
+    "Unwavering.md",
+    "Resolute.md",
+    "Unfaltering.md",
+    "Stead.md",
+    "Lieu.md",
+    "Pontifical.md",
     "Vocab Words/Vocab A/Abrogate.md",
     "conflict-files-obsidian-git.md",
     "Words of the Day/2024-12-02.md",
-    "Steadfast.md",
-    "Pontifical.md",
     "Poise.md",
     "Indoctrinate.md",
     "Doctrine.md",
@@ -259,16 +324,6 @@
     "Cogency.md",
     "Chattel.md",
     "Captious.md",
-    "practical.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Chide.md",
-    "Confrontational.md",
-    "Belligerent.md",
-    "Austerity.md",
-    "Vocab Words/Vocab A/Articulate.md",
-    "About.md",
-    "Vocab Words/Vocab C/Castigate.md",
     "Words of the Day",
     "Images/Pasted image 20241128085706.png",
     "Images/Abrogate 1.png",
