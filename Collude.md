@@ -1,0 +1,5 @@
+# Meaning: 
+Conspire
+
+---
+#Homonym [[Collide]]

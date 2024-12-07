@@ -37,16 +37,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Austerity.md",
+                "file": "Cogency.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Austerity"
+              "title": "Cogency"
+            }
+          },
+          {
+            "id": "c0ef669e6ab379e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocab Words/Vocab D/Denigrate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Denigrate"
+            }
+          },
+          {
+            "id": "5343a603deea6ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocab Words/Vocab C/Complaisant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Complaisant"
+            }
+          },
+          {
+            "id": "e3263165077be4d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Complement"
+            }
+          },
+          {
+            "id": "4d41715772a3819d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tortuous.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tortuous"
+            }
+          },
+          {
+            "id": "178271c6f9e01512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Collide"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -196,10 +266,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f9d115e6fb374ad",
+  "active": "4d41715772a3819d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Torturous.md",
+    "Tortuous.md",
+    "Complement.md",
+    "Compliment.md",
+    "Vocab Words/Vocab C/Complaisant.md",
+    "Vocab Words/Vocab C/Compliant.md",
+    "Disinterested.md",
+    "Vocab Words/Vocab D/Denigrate.md",
+    "Collude.md",
+    "Collide.md",
+    "Cogency.md",
+    "Appaise.md",
+    "Vocab Words/Vocab A/Apprise.md",
+    "Vocab Words/Vocab A/Approbation.md",
     "Austerity.md",
+    "conflict-files-obsidian-git.md",
     "Unwavering.md",
     "Unfaltering.md",
     "Stead.md",
@@ -210,20 +294,6 @@
     "Lieu.md",
     "Exorbitant.md",
     "Equanmity.md",
-    "Eclectic.md",
-    "Doctrinaire.md",
-    "Abolish.md",
-    "About.md",
-    "Untitled 2.md",
-    "Hackneyed.md",
-    "Vocab Words/Vocab A/Austere.md",
-    "Words of the Day/2024-12-02.md",
-    "Vocab Words/Vocab A/Articulate.md",
-    "Confrontational.md",
-    "Disentangled.md",
-    "Bereft.md",
-    "Indoctrinate.md",
-    "Doctrine.md",
     "Words of the Day",
     "Images/Probation.png",
     "Images/Pasted image 20241128085706.png",

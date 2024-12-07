@@ -1,0 +1,5 @@
+## Meaning:
+Arduous
+
+---
+#Homonym [[Tortuous]]

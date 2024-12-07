@@ -1,0 +1,5 @@
+## Meaning:
+Praise
+
+---
+#Homonym [[Complement]]
